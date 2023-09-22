@@ -11,7 +11,7 @@ body
 }
 #preloader
 {
-   background: #FFFFFF url("../images/bouncing-dot.gif") no-repeat center center;
+   background: #FFFFFF url("../images/rotating-dots.gif") no-repeat center center;
    bottom: 0;
    position: fixed;
    top: 0;
@@ -922,7 +922,7 @@ body
    font-family: "Nirmala UI";
    font-weight: 400;
    font-size: 13px;
-   line-height: 18.5px;
+   line-height: 16px;
 }
 #wb_Text1 p, #wb_Text1 ul
 {
